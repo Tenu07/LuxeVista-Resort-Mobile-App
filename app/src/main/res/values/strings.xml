@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">LuxeVista Resort</string>
+
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="name_hint">Full Name</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="register_link_text">Don\'t have an account? Register</string>
+    <string name="login_link_text">Already have an account? Login</string>
+    <string name="logout_button">Logout</string>
+
+    <string name="title_home">Home</string> <string name="title_rooms">Rooms</string>
+    <string name="title_services">Services</string>
+    <string name="title_my_bookings">My Bookings</string>
+    <string name="title_attractions">Explore</string>
+    <string name="title_profile">Profile</string>
+
+    <string name="room_image_desc">Image of the hotel room</string>
+    <string name="service_image_desc">Image related to the service</string>
+    <string name="attraction_image_desc">Image of the attraction or offer</string>
+    <string name="book_now_button">Book Now</string>
+    <string name="reserve_service_button">Reserve Service</string>
+    <string name="check_in_date_label">Check-in:</string>
+    <string name="check_out_date_label">Check-out:</string>
+    <string name="select_date_label">Date:</string>
+    <string name="select_date_prompt">Select Date</string>
+    <string name="cancel_button">Cancel</string>
+
+    <string name="profile_title">My Profile</string>
+    <string name="profile_name_label">Name:</string>
+    <string name="profile_email_label">Email:</string>
+
+    <string name="placeholder_image_desc">Placeholder Image</string>
+
+</resources>

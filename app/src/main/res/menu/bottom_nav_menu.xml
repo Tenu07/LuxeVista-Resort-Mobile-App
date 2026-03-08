@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navigation_rooms"
+        android:icon="@drawable/ic_hotel" android:title="@string/title_rooms" />
+    <item
+        android:id="@+id/navigation_services"
+        android:icon="@drawable/ic_spa" android:title="@string/title_services" />
+    <item
+        android:id="@+id/navigation_my_bookings"
+        android:icon="@drawable/ic_bookings" android:title="@string/title_my_bookings" />
+    <item
+        android:id="@+id/navigation_attractions"
+        android:icon="@drawable/ic_map" android:title="@string/title_attractions" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_person" android:title="@string/title_profile" />
+</menu>
